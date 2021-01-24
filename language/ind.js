@@ -22,13 +22,13 @@ exports.lvlnoon = () => {
 	return`*GRUB LEVEL NOT ACTIVATED*`
 }
 
-exports.noregis = () => {
-	return`*「 NOT REGISTERED 」*\n\n*how to Register ${prefix}register name|age* \n*example ${prefix}register abhi|17*`
-}
 
-exports.rediregis = () => {
-	return`*「 ALREADY REGISTERED 」*\n\n*you are already registered in database bot*`
-}
+
+
+
+
+
+
 
 exports.stikga = () => {
 	return`*failed to repeat*`
